@@ -18,5 +18,4 @@ It's important to remember that while these systems are beneficial, they're not 
 
 ## Block Diagram
 
-![blockdiagram](https://github.com/ajsb85/blindspot.ai/assets/663460/aace33b3-073b-44cd-afde-6d1e0f8034b9)
-
+![blockdiagram](https://github.com/ajsb85/blindspot.ai/assets/663460/d6b9d73a-9b77-4671-b250-491c3e11d41e)
