@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/ajsb85/blindspot.ai/assets/663460/d51c94c9-b507-4550-9114-1209a14034ea)
 
-BE AWARE OF BLIND SPOTS WITH AMB82
+_BE AWARE OF BLIND SPOTS WITH AMB82_
 
 Blind Spot Warning (BSW) systems are a great way to keep yourself and others safe on the road. They use sensors to monitor your blind spots and alert you if there's a vehicle in your blind spot. This is usually indicated by a light on or near your side mirrors. If you don't notice the light and try to change lanes, an alarm will warn you that doing so is unsafe.
 
