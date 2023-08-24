@@ -4,4 +4,4 @@
 
 BE AWARE OF BLIND SPOTS WITH AMB82
 
-![SplashScreen](https://github.com/ajsb85/blindspot.ai/assets/663460/96f4f1a3-c557-48f5-866a-09da725e83b9)
+![SplashScreen](https://github.com/ajsb85/blindspot.ai/assets/663460/4386fca7-738f-4346-a5be-e48ef65215b5)
