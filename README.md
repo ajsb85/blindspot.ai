@@ -25,5 +25,5 @@ It's important to remember that while these systems are beneficial, they're not 
 
 # Contact
 
-![contact-light](https://github.com/ajsb85/blindspot.ai/assets/663460/e72b7be7-f23f-4f06-9fc0-5a4037d89a28.png#gh-light-mode-only)
-![contact-dark](https://github.com/ajsb85/blindspot.ai/assets/663460/11370665-c6cd-4e60-be02-ccf897a4e234.png#gh-dark-mode-only)
+![WeChat](https://raw.githubusercontent.com/ajsb85/vane.ai/main/press/contact-dark.png#gh-dark-mode-only)
+![WeChat](https://raw.githubusercontent.com/ajsb85/vane.ai/main/press/contact-light.png#gh-light-mode-only)
