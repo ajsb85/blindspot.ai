@@ -1,12 +1,7 @@
 
-<img align="right" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/19fa4733-2b5a-4699-b5db-78367e3f71b8#gh-dark-mode-only">
-<img align="right" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/1b8951f0-74da-44f2-9593-2e24f2d209d1#gh-light-mode-only">
-
-<br/>
+![banner](https://github.com/ajsb85/blindspot.ai/assets/663460/322940c0-38d1-4246-83c8-a294ac7f17ef)
 
 _BE AWARE OF BLIND SPOTS WITH AMEBA PRO2_
-<br/>
-<br/>
 
 <img align="left" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/93906aad-ab88-47d5-b259-ae3d605b0889">
 Blind Spot Warning (BSW) systems are a great way to keep yourself and others safe on the road. They use sensors to monitor your blind spots and alert you if there's a vehicle in your blind spot. This is usually indicated by a light on or near your side mirrors. If you don't notice the light and try to change lanes, an alarm will warn you that doing so is unsafe.
