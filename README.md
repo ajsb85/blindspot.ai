@@ -1,7 +1,7 @@
 # Blindspots AI
 
-![banner](https://github.com/ajsb85/blindspot.ai/assets/663460/c73fd5b7-60d4-4b69-a370-40e8c5bb4fd9)
+![banner](https://github.com/ajsb85/blindspot.ai/assets/663460/d51c94c9-b507-4550-9114-1209a14034ea)
 
 BE AWARE OF BLIND SPOTS WITH AMB82
 
-![SplashScreen](https://github.com/ajsb85/blindspot.ai/assets/663460/4386fca7-738f-4346-a5be-e48ef65215b5)
+![SplashScreen](https://github.com/ajsb85/blindspot.ai/assets/663460/901bc5ec-d6a2-4326-a9ab-95978202a5f5)
