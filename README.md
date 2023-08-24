@@ -1,6 +1,6 @@
-# Blindspots AI
 
-![banner](https://github.com/ajsb85/blindspot.ai/assets/663460/d51c94c9-b507-4550-9114-1209a14034ea)
+![logo-dark](https://github.com/ajsb85/blindspot.ai/assets/663460/19fa4733-2b5a-4699-b5db-78367e3f71b8#gh-dark-mode-only)
+![logo-light](https://github.com/ajsb85/blindspot.ai/assets/663460/1b8951f0-74da-44f2-9593-2e24f2d209d1#gh-light-mode-only)
 
 _BE AWARE OF BLIND SPOTS WITH AMB82_
 
@@ -19,3 +19,8 @@ It's important to remember that while these systems are beneficial, they're not 
 ## Block Diagram
 
 ![blockdiagram](https://github.com/ajsb85/blindspot.ai/assets/663460/d6b9d73a-9b77-4671-b250-491c3e11d41e)
+
+# Contact
+
+![contact-light](https://github.com/ajsb85/blindspot.ai/assets/663460/e72b7be7-f23f-4f06-9fc0-5a4037d89a28#gh-light-mode-only)
+![contact-dark](https://github.com/ajsb85/blindspot.ai/assets/663460/11370665-c6cd-4e60-be02-ccf897a4e234#gh-dark-mode-only)
