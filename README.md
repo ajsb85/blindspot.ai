@@ -8,4 +8,4 @@ BE AWARE OF BLIND SPOTS WITH AMB82
 
 ## Block Diagram
 
-![blockdiagram](https://github.com/ajsb85/blindspot.ai/assets/663460/ddfb4f6b-c0e9-497d-9633-9677d2b59c15)
+![blockdiagram](https://github.com/ajsb85/blindspot.ai/assets/663460/aace33b3-073b-44cd-afde-6d1e0f8034b9)
