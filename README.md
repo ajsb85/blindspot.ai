@@ -1,11 +1,14 @@
 
-![logo-dark](https://github.com/ajsb85/blindspot.ai/assets/663460/19fa4733-2b5a-4699-b5db-78367e3f71b8#gh-dark-mode-only)
-![logo-light](https://github.com/ajsb85/blindspot.ai/assets/663460/1b8951f0-74da-44f2-9593-2e24f2d209d1#gh-light-mode-only)
+<img align="right" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/19fa4733-2b5a-4699-b5db-78367e3f71b8#gh-dark-mode-only">
+<img align="right" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/1b8951f0-74da-44f2-9593-2e24f2d209d1#gh-light-mode-only">
+
+<br/>
 
 _BE AWARE OF BLIND SPOTS WITH AMB82_
+<br/>
+<br/>
 
 <img align="left" width="33%" src="https://github.com/ajsb85/blindspot.ai/assets/663460/93906aad-ab88-47d5-b259-ae3d605b0889">
-
 Blind Spot Warning (BSW) systems are a great way to keep yourself and others safe on the road. They use sensors to monitor your blind spots and alert you if there's a vehicle in your blind spot. This is usually indicated by a light on or near your side mirrors. If you don't notice the light and try to change lanes, an alarm will warn you that doing so is unsafe.
 
 Some of the newer BSW systems can even detect vehicles in your trailer's blind spot if you tow one. Additionally, some car manufacturers use this same technology to provide "Cross-Traffic Alerts" when backing up. It is beneficial when you can't see what's approaching from the left or right behind your vehicle.
