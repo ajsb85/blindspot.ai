@@ -4,4 +4,4 @@
 
 BE AWARE OF BLIND SPOTS WITH AMB82
 
-![photo_2023-08-24_15-06-02](https://github.com/ajsb85/blinkspot.ai/assets/663460/49d992e6-4809-4d58-a615-c340e3e52242)
+![SplashScreen](https://github.com/ajsb85/blindspot.ai/assets/663460/96f4f1a3-c557-48f5-866a-09da725e83b9)
